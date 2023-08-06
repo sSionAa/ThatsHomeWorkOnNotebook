@@ -57,7 +57,7 @@ Console.WriteLine("Total product: " + Product(number));
 */
 
 // Method generation array
-
+/*
 
 
 int[] CreateRandomArray(int size, int minValue , int maxValue)
@@ -89,3 +89,4 @@ int max = Convert.ToInt32(Console.ReadLine());
 
 int[] myArray = CreateRandomArray(length, min, max);
 WriteArray(myArray);
+*/
