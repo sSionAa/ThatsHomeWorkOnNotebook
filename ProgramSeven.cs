@@ -1,5 +1,5 @@
 //Task 47. Задайте двумерный массив размером m×n, заполненный случайными вещественными числами.
-
+/*
 double[,] Create2dRandomArray(int rows, int columns, int min, int max)
 {
     double[,] array = new double[rows, columns];
@@ -104,3 +104,4 @@ double[] ColumnsAverageValue(double[,] array)
 
 double[] averageValues = ColumnsAverageValue(array);
 WriteArray(averageValues);
+*/
